@@ -3,9 +3,9 @@ def max_value(numbers):
         in the list.
     """
     max_value = 0
-    for num in numbers:
-        if num > max_value:
-            max_value = num
+    for k in numbers:
+        if k > max_value:
+            max_value = k
     
     return max_value
 
