@@ -17,6 +17,5 @@ def silly_sum():
 
         num = int(input('Please enter a number => '))
 
-
 if __name__ == "__main__":
     print(f"Answer = {silly_sum()}")
