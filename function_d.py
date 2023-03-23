@@ -9,7 +9,7 @@ def max_value(numbers):
     
     return max_value
 
-# April
+# Julie
 # testing
 
 if __name__ == "__main__":
